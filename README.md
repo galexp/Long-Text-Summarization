@@ -9,4 +9,8 @@ previous studies. These findings confirm the effectiveness of our methodologies 
 of high computational resources. Future work could explore multi-lingual and multi-modal data and develop
 user-friendly interfaces to broaden the models’ applicability.
 
+Published Paper
 https://zenodo.org/records/17822781
+
+Dataset Link
+https://arxiv.org/abs/1906.03741
