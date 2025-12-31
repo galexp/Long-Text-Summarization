@@ -8,3 +8,5 @@ ROUGE-1 score of 95.38% and DistilBART achieving 91.94% on BLEU, marking a 50% i
 previous studies. These findings confirm the effectiveness of our methodologies and emphasize the importance
 of high computational resources. Future work could explore multi-lingual and multi-modal data and develop
 user-friendly interfaces to broaden the models’ applicability.
+
+https://zenodo.org/records/17822781
